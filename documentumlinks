@@ -1,0 +1,338 @@
+
+
+BI Sharepoint Page.msg
+ 
+BI Sharepoint
+http://servicesdomnet.dominionnet.com/sites/itbi/default.aspx
+ 
+Work Tracking
+http://servicesdomnet.dominionnet.com/sites/itbi/wrkreq/Lists/Resource%20List/Vinod%20%20Meeting%20View.aspx
+
+
+BI Sharepoint Page.msg
+
+Fredrick, you now have access to BI SharePoint site as well as the work tracking list. 
+ 
+Basab, Please go over the structure of the site and work process with Fred
+ 
+BI Sharepoint
+http://servicesdomnet.dominionnet.com/sites/itbi/default.aspx
+ 
+Work Tracking
+http://servicesdomnet.dominionnet.com/sites/itbi/wrkreq/Lists/Resource%20List/Vinod%20%20Meeting%20View.aspx
+
+
+
+
+
+Download the application from:
+Windows Platform Installer (via download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-20190620_1446-V721-installer-win-dlm.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtxQz-Pk$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-20190620_1446-V721-installer-win-dlm.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbI8aerM0$ 
+
+Platform Installer (without download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-Starter-20190620_1446-V7.2.1-installer.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbpokt5bU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/dist__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbjGaS5ck$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-Starter-20190620_1446-V7.2.1-installer.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbh1__Ohk$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/dist.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb3QgpeRc$ 
+
+Studio-only installers (via download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-win-dlm.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWpCLjIo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-win-dlm.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbfrUy6os$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-mac-dlm.dmg__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_YxCy5E$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-mac-dlm.dmg.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbbzGJT6U$ 
+
+Studio-only installers (without download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-windows-installer.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbyVDsu5w$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-windows-installer.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb8ht62T0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-osx-installer.app.tar__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbXWVjBxQ$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-osx-installer.app.tar.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbnY378R0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-linux-x64-installer.run__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb8rCI8Xw$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-linux-x64-installer.run.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbGsVAJsE$ 
+
+
+Manual Installation:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Studio-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbR7g3RHY$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Studio-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb1GSI5DY$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AdministrationCenter-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb14ZWeq0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AdministrationCenter-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbfi0Gaoo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-JobServer-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJWLOsWM$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-JobServer-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_y4I9nw$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AMC_Web-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbzh1vHow$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AMC_Web-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN5AI7rc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-BRMS-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbBf1OU-c$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-BRMS-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbTALsBt8$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-SAP-RFC-Server-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbd0g4nMc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-SAP-RFC-Server-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_vgbkc8$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-CI-Builder-Maven-Plugin-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb72siLTM$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-CI-Builder-Maven-Plugin-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbcbPvw4s$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-IAM-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN0Wd6Qo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-IAM-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbRZtFPe0$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataPreparation-Server-full-V3.1.0-SNAPSHOT.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPY0L8zg$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataPreparation-Server-full-V3.1.0-SNAPSHOT.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbww7fOGE$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataStewardship-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbU_jPqBY$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataStewardship-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbZJp80IU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DictionaryService-3.1.0.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWnLwmCo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DictionaryService-3.1.0.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbM-MARwM$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DQPortal-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbdm1lS2Q$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DQPortal-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbb_JQjNA$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Repository-Manager-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPrbRpoc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Repository-Manager-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJJFU3Ao$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-darwin-x86_64.tar.gz__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbeEb_69E$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-darwin-x86_64.tar.gz.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWdMoU34$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-linux-x86_64.tar.gz__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbZ3cFM5o$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-linux-x86_64.tar.gz.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPuvySlU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-windows-x86_64.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbK3jsyBQ$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-windows-x86_64.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtzLFoZ8$ 
+
+
+Local update site for installation without internet:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend_Full_Studio_p2_repository-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtWgE1ow$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend_Full_Studio_p2_repository-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb7Bfeoos$ 
+
+
+Get the related documentation, including the installation guide, from:
+Online:
+https://urldefense.com/v3/__https://help.talend.com/search/books?filters=EnrichProdName**A2522Talend*Big*Data*Platform*2522*EnrichVersion**A25227.2*2522__;fiUrKyslKn4lJQ!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbI7eR_e0$ 
+
+PDF English:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_English_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbD3v6NJM$ 
+PDF French:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_French_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN3p97NU$ 
+PDF Japanese:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_Japanese_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJTdtbms$ 
+PDF Chinese:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_Chinese_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbrgz0-Vw$ 
+
+==================================================================================================
+Talend's consulting programs offer a comprehensive set of services, from Quickstart implementations and Accelerators to more adoption and strategically-oriented programs.
+Talend consultants have years of experience, and proven success with strategic and technical planning in a multitude of implementation circumstances. You will receive one-on-one attention and support to see your projects through to a successful outcome.
+
+For more information, please visit:
+https://urldefense.com/v3/__http://www.talend.com/services/services__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhboq9aLqw$ 
+==================================================================================================
+Sincerely,
+The Talend Support Team
+As a recipient of an email from Talend, your contact personal data will be on our systems. Please see our privacy notice (updated December 2019) at Talend, Inc. <https://urldefense.com/v3/__https://www.talend.com/contacts-privacy-policy/__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbfVgKtVo$ >
+
+
+
+
+
+Download the application from:
+Windows Platform Installer (via download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-20190620_1446-V721-installer-win-dlm.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtxQz-Pk$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-20190620_1446-V721-installer-win-dlm.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbI8aerM0$ 
+
+Platform Installer (without download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-Starter-20190620_1446-V7.2.1-installer.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbpokt5bU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/dist__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbjGaS5ck$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Installer-Starter-20190620_1446-V7.2.1-installer.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbh1__Ohk$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/dist.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb3QgpeRc$ 
+
+Studio-only installers (via download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-win-dlm.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWpCLjIo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-win-dlm.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbfrUy6os$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-mac-dlm.dmg__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_YxCy5E$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V721-installer-mac-dlm.dmg.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbbzGJT6U$ 
+
+Studio-only installers (without download manager):
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-windows-installer.exe__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbyVDsu5w$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-windows-installer.exe.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb8ht62T0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-osx-installer.app.tar__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbXWVjBxQ$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-osx-installer.app.tar.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbnY378R0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-linux-x64-installer.run__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb8rCI8Xw$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/TalendStudio-20190620_1446-V7.2.1-linux-x64-installer.run.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbGsVAJsE$ 
+
+
+Manual Installation:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Studio-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbR7g3RHY$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-Studio-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb1GSI5DY$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AdministrationCenter-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb14ZWeq0$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AdministrationCenter-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbfi0Gaoo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-JobServer-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJWLOsWM$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-JobServer-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_y4I9nw$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AMC_Web-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbzh1vHow$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-AMC_Web-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN5AI7rc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-BRMS-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbBf1OU-c$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-BRMS-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbTALsBt8$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-SAP-RFC-Server-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbd0g4nMc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-SAP-RFC-Server-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb_vgbkc8$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-CI-Builder-Maven-Plugin-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb72siLTM$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-CI-Builder-Maven-Plugin-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbcbPvw4s$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-IAM-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN0Wd6Qo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-IAM-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbRZtFPe0$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataPreparation-Server-full-V3.1.0-SNAPSHOT.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPY0L8zg$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataPreparation-Server-full-V3.1.0-SNAPSHOT.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbww7fOGE$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataStewardship-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbU_jPqBY$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DataStewardship-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbZJp80IU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DictionaryService-3.1.0.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWnLwmCo$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DictionaryService-3.1.0.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbM-MARwM$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DQPortal-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbdm1lS2Q$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-DQPortal-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbb_JQjNA$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Repository-Manager-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPrbRpoc$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Repository-Manager-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJJFU3Ao$ 
+
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-darwin-x86_64.tar.gz__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbeEb_69E$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-darwin-x86_64.tar.gz.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbWdMoU34$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-linux-x86_64.tar.gz__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbZ3cFM5o$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-linux-x86_64.tar.gz.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbPuvySlU$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-windows-x86_64.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbK3jsyBQ$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend-LogServer-V7.2.1-windows-x86_64.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtzLFoZ8$ 
+
+
+Local update site for installation without internet:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend_Full_Studio_p2_repository-20190620_1446-V7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbtWgE1ow$ 
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/Talend_Full_Studio_p2_repository-20190620_1446-V7.2.1.zip.sha256__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhb7Bfeoos$ 
+
+
+Get the related documentation, including the installation guide, from:
+Online:
+https://urldefense.com/v3/__https://help.talend.com/search/books?filters=EnrichProdName**A2522Talend*Big*Data*Platform*2522*EnrichVersion**A25227.2*2522__;fiUrKyslKn4lJQ!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbI7eR_e0$ 
+
+PDF English:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_English_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbD3v6NJM$ 
+PDF French:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_French_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbN3p97NU$ 
+PDF Japanese:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_Japanese_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbJTdtbms$ 
+PDF Chinese:
+https://urldefense.com/v3/__http://www.opensourceetl.net/tis/tpbd_721/DocumentationSet_Talend_BigData_Platform_Chinese_7.2.1.zip__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhbrgz0-Vw$ 
+
+==================================================================================================
+Talend's consulting programs offer a comprehensive set of services, from Quickstart implementations and Accelerators to more adoption and strategically-oriented programs.
+Talend consultants have years of experience, and proven success with strategic and technical planning in a multitude of implementation circumstances. You will receive one-on-one attention and support to see your projects through to a successful outcome.
+
+For more information, please visit:
+https://urldefense.com/v3/__http://www.talend.com/services/services__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9Nhboq9aLqw$ 
+==================================================================================================
+Sincerely,
+The Talend Support Team
+As a recipient of an email from Talend, your contact personal data will be on our systems. Please see our privacy notice (updated December 2019) at Talend, Inc. <https://urldefense.com/v3/__https://www.talend.com/contacts-privacy-policy/__;!!KQQRbYJqkXCDY_8FAQ!WdcCWveVH19dUiJlxJxWEZT_-VucXL3g5XIXXSxpeeya2MvSA1DUHGHo9NhbfVgKtVo$ >
+
+
+
+
+Pam CONNECT CONFIG R_CONNECT 
+
+
+https://support.rstudio.com/hc/en-us/articles/360016587973-Integrating-RStudio-Server-Pro-with-Active-Directory-using-CentOS-RHEL
+
+
+https://docs.rstudio.com/connect/admin/getting-started.html#initial-configuration
+
+https://github.com/johanneswaage/RHEL7_DS/blob/master/setup.sh
+
+
+https://docs.rstudio.com/connect/1.5.12/admin/rstudio-connect-admin-guide-1.5.12-7.pdf
+
+ https://docs.rstudio.com/connect/1.5.12/admin/license-management.html
+
+
+https://docs.rstudio.com/connect/admin/process-management.html#process-management-pam-sessions
+
+
+
+DEBUGGING SHINY 
+
+
+https://shiny.rstudio.com/articles/debugging.html
+
+http://ricplhadoop1017.dominionnet.com:3939/connect/#/login?url=http:%2F%2Fricplhadoop1017.dominionnet.com:3939%2Fconnect%2F
+
+https://rstudio.github.io/profvis/
+
+https://jupyter.org/install
+https://support.rstudio.com/hc/en-us/articles/226868627-PAM-authentication-in-RStudio-Connect
+
+# MY RSTUDEO CONNECT 
+
+http://vdcplhdps1002:3939/connect/#/admin/metrics
+
+Saml
+https://support.rstudio.com/hc/en-us/articles/360022321494-Getting-Started-with-SAML-in-RStudio-Connect
+
+
+ambari
+https://www.ibm.com/support/knowledgecenter/STXKQY_BDA_SHR/bl1adv_userandgrpid.htm 
+
+
+ hdfs fsck /apps/hbase/data/hbase.version -files -locations -blocks
+
+ /usr/hdp/2.6.3.0-235/atlas/bin/atlas_start.py -port 21000
+starting atlas on port 21000
+
+DELETE FROM kerberos_principal_host where principal_name='ambari-server-domhdp@MBU.AD.DOMINIONNET.COM';
+DELETE 1
+ambari=> DELETE FROM kerberos_principal_host where principal_name='ambari-server-domhdp@MBU.AD.DOMINIONNET.COM';
+ambari=> DELETE FROM kerberos_principal where principal_name='ambari-server-domhdp@MBU.AD.DOMINIONNET.COM';
+DELETE 1
+ambari=>
+
+ 
+ find /var/lib/rstudio-connect/bundles -type  f  -name "*.tar.gz" -mtime +365 |xargs -I{} cp {} /hadoop_backup/rstudio-connect_bkp/bandles_backup
+
+
+ 
+Load Testing: https://rstudio.github.io/shinyloadtest/
+Integration Testing: https://shiny.rstudio.com/articles/integration-testing.html
+Other Tests: https://cran.r-project.org/web/packages/RSelenium/vignettes/shinytesting.html
+
+
+https://cfss.uchicago.edu/setup/git-with-rstudio/ >> git guide 
+Collaboration with RStudio Connect - Push Button Publishing + Github.
+
+https://linuxhint.com/check_memory_usage_process_linux/
+https://github.com/Coding-with-Adam/Dash-by-Plotly/tree/master/Other
+
+
+while read line; do id $line; done < /tmp/filename 
+
+
+/usr/sbin/lsof |grep deleted
+ps -o pid,user,%mem,command ax | sort -b -k3 -r
+From <https://linuxhint.com/check_memory_usage_process_linux/> 
+
+https://www.ibm.com/support/knowledgecenter/SSCRJT_5.0.2/com.ibm.swg.im.bigsql.doc/doc/trb_bsql_noservices.html
+
+services such as shinyapps.io or rstudio.cloud.
+https://support.rstudio.com/verification/ticket/iTHiNso9tq9fSIh5S7a7PMIto/
+
+
+
+https://developer.ibm.com/hadoop/2017/06/22/big-sql-yarn-configuration-options/
+dmidecode -s system-product-name
+dmidecode -s system-product-name
+ lshw -class system
+
+
+
+https://github.com/raaga500/YTshared/blob/master/V5_CovidDashboard-World.ipynb
+
+Create Interactive Dashboard in Python from scratch | Vizualization | DASH | PLOTLY
+
+
+
+Db2 Warehouse explain
+
+
+
+
+
+
+
+
+
+
+
+
+
